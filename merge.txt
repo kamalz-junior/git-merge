@@ -1,1 +1,2 @@
 Membuat fitur searching A
+Membuat fitur searching B
